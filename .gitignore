@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
+.idea/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -38,7 +39,7 @@ buildNumber.properties
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
-.idea
+.idea/
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
 # since they will be recreated, and may cause churn.  Uncomment if using
